@@ -1,0 +1,65 @@
+body
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Título
+{
+    font-size: 60px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#AutorEData
+{
+    margin-left: 100px;
+}
+
+#lide
+{
+    margin-left: 230px;
+    margin-right: 230px;
+    font-size: 25px;
+}
+
+#corpo
+{
+    margin-left: 230px;
+    margin-right: 230px;
+    font-size: 25px; 
+    text-align: justify;
+}
+
+#img
+{
+    width: 800px;
+}
+
+#Subtítulo
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    color:gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
